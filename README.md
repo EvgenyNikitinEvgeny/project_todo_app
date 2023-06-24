@@ -25,7 +25,7 @@ It is also possible to sort todos by type:
   - Bulma library;
   - TypeScript.
 
-:white_check_mark:  [Here is a demo link for the React Todo app](https://evgenynikitinevgeny.github.io/project_todo-app/)
+:white_check_mark:  [Here is a demo link for the React Todo app](https://evgenynikitinevgeny/github.io/project_todo-app/)
 
 ## Application developer
  ### Nikitin Yevhenii
